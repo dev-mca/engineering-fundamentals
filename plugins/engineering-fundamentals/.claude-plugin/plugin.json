@@ -1,0 +1,27 @@
+{
+  "name": "engineering-fundamentals",
+  "displayName": "Engineering Fundamentals",
+  "version": "0.1.0",
+  "description": "Makes Claude Code work like a disciplined software engineer: clean code, refactoring, SOLID and design by contract, test-driven development, systematic test data, Git and commit conventions, CI quality gates, architecture docs, logging, and a verifiable agentic workflow.",
+  "author": {
+    "name": "Melih Can",
+    "url": "https://github.com/dev-mca"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "clean-code",
+    "refactoring",
+    "tdd",
+    "testing",
+    "solid",
+    "software-design",
+    "git",
+    "conventional-commits",
+    "ci",
+    "code-review",
+    "architecture",
+    "agentic-engineering"
+  ],
+  "homepage": "https://github.com/dev-mca/engineering-fundamentals",
+  "repository": "https://github.com/dev-mca/engineering-fundamentals"
+}

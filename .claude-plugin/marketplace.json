@@ -1,0 +1,14 @@
+{
+  "name": "engineering-fundamentals",
+  "description": "Software engineering fundamentals for coding agents",
+  "owner": {
+    "name": "Melih Can"
+  },
+  "plugins": [
+    {
+      "name": "engineering-fundamentals",
+      "source": "./plugins/engineering-fundamentals",
+      "description": "Clean code, refactoring, design, TDD, Git conventions, CI quality gates, architecture docs, logging and a verifiable agentic workflow for Claude Code."
+    }
+  ]
+}
